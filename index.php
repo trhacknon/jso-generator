@@ -97,7 +97,7 @@ if (isset($_POST['submit'])) {
 	echo "<input type='text' value='$ress' id='pilih' readonly />";
 	echo "<button type='button' onclick='copy_text()'>Copy</button>";
 }}
-echo "<h2 class='foot'>@2k19 Coded By Nor Ahmad</h2>";
+echo "<h2 class='foot'>@2k22 Coded By trhacknon </h2>";
 
 ?>
 
