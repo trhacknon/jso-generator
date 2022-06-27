@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-Made with ❤️ by <a href="https://github.com/norahmad">Nor Ahmad</a>
+Made with ❤️ by <a href="https://github.com/trhacknon ">trhacknon</a>
 </p>
  <h4 align="center">Web Bassed ( index.php )</h4> <br>
  <p align="center">
